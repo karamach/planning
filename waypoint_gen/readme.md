@@ -19,7 +19,8 @@ The waypoint generation is controlled by the following parameters as used in the
 # Sample Output
 
 Below is a sample output of the generated path. As can be the path spirals to a lower altitude at each location of interest and has a straight line trajectory between locations of interest.
-![alt text](https://github.com/karamach/rescue_rangers/tree/master/mrsd_project/waypoint_gen/images/path.png)
+
+![alt text](https://github.com/karamach/planning/blob/master/waypoint_gen/images/path.png)
 
 # TODO
 1. Employ shortest part to find optimal path between locations of interest.
